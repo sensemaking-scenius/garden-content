@@ -1,6 +1,7 @@
 ---
 title: The Sensemaking Scenius
 enableToc: false
+publish: true
 ---
 
 <style>
