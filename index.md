@@ -239,6 +239,12 @@ body {
   </div>
 </div>
 
+## Writings
+
+- [[From Genius Science to Scenius Science]]
+- [[Wu Gwei, or Going with the Flow of Governance]]
+
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   // Add subtle floating animation to GIFs
